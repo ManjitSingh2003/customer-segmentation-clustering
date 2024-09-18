@@ -18,7 +18,7 @@ The goal is to provide insights that allow businesses to tailor marketing strate
    
 ## Introduction
 
-This project performs customer segmentation using the **Online+Retail** by applying K-Means and Hierarchical Clustering techniques. The insights from this segmentation can help businesses make data-driven decisions about marketing, customer retention, and sales strategies.
+This project performs customer segmentation using the **Online Retail Dataset** by applying K-Means and Hierarchical Clustering techniques. The insights from this segmentation can help businesses make data-driven decisions about marketing, customer retention, and sales strategies.
 
 ## Objectives
 
