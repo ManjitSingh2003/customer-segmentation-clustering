@@ -57,7 +57,6 @@ These segments can help businesses optimize marketing strategies and improve cus
 ## Files in the Repository
 
 - `Customer_Segmentation_K-Means_Clustering.ipynb`: The Jupyter notebook containing the code for data loading, cleaning, clustering, and visualization.
-- `Customer_Segmentation_PPT.pptx`: A presentation summarizing the project, methodology, and results.
 
 The dataset used for this analysis is too large to be hosted directly in this repository. You can download the dataset from the following link:
 
